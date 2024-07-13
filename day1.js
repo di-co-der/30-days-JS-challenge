@@ -21,5 +21,7 @@ console.log(typeof(var3));
 console.log(typeof(var4));
 console.log(typeof(var5));
 
-console.log(var4);
-console.log(var5);
+let var6 = 7;
+console.log(var6);
+var6 = 8;
+console.log(var6);
