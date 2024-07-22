@@ -1,8 +1,13 @@
-var num = 16;
-// console.log(num);
+console.log(arr);
+// let n = arr.length;
+// console.log(arr[0]);
+// console.log(arr[n-1]);
 
-// let name = "Divyansh";
-// console.log(name);
-
-// const booli = true;
-// console.log(booli);
+// arr.push(6);
+// console.log(arr);
+// arr.pop();
+// console.log(arr);
+// arr.shift();
+// console.log(arr);
+// arr.unshift(0);
+// console.log(arr);
